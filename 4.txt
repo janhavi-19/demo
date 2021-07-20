@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is in master
+=======
+this is in f2
+>>>>>>> f2
